@@ -1,0 +1,16 @@
+!table
+!version 300
+!charset WindowsTurkish
+
+Definition Table
+  Type NATIVE Charset "WindowsTurkish"
+  Fields 4
+    Plaka_No Char (2) Index 1 ;
+    Il_Adi Char (20) Index 2 ;
+    Elektrik_Uretim Decimal (20, 2) Index 3 ;
+    Elektrik_Tuketim Decimal (20, 2) Index 4 ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "8ce595a3-352d-462b-b045-cb34a4d6f3a1"
+end_metadata

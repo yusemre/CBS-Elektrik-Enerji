@@ -1,0 +1,15 @@
+!table
+!version 300
+!charset WindowsTurkish
+
+Definition Table
+  Type NATIVE Charset "WindowsTurkish"
+  Fields 3
+    Plaka_No Char (2) Index 1 ;
+    Il_Adi Char (20) Index 2 ;
+    Ortalama_Gunes_Suresi Decimal (20, 1) Index 3 ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "9d6179fc-4c4f-49b8-a923-954cc03426d1"
+end_metadata

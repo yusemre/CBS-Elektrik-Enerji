@@ -1,0 +1,53 @@
+!Workspace
+!Version  950
+!Charset WindowsTurkish
+Open Table "G:\dersler\cbs\MiDataTr\Bolum_11\Iller" As Iller Interactive
+Open Table "C:\Users\Asus\Desktop\cbs mi data\Elektrik_Uretim_Tuketim" As Elektrik_Uretim_Tuketim Interactive
+Open Table "C:\Users\Asus\Desktop\cbs mi data\Kayip_Kacak" As Kayip_Kacak Interactive
+Open Table "C:\Users\Asus\Desktop\cbs mi data\Ortalama_Gunes_Suresi" As Ortalama_Gunes_Suresi Interactive
+Map From Iller,Ortalama_Gunes_Suresi,Kayip_Kacak,Elektrik_Uretim_Tuketim 
+  Position (0.0416667,0.0416667) Units "in"
+  Width 10.3167 Units "in" Height 5.1 Units "in" 
+Set Window FrontWindow() ScrollBars Off Autoscroll On Enhanced On Smooth Text Antialias Image High
+Set Map
+  CoordSys Earth Projection 3, 28, "m", 36, 25, 37.5, 40.5, 1003827.11, -1183453.0800000001
+  Center (954589.8838,396050.7577)
+  Zoom 1867.640291 Units "km"
+  Preserve Zoom Display Zoom
+  Distance Units "km" Area Units "sq km" XY Units "m"
+Set Map
+  Layer 1
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line None Position Center Font ("Tahoma",256,8,0,16777215) Pen (1,2,0) 
+      With IL_ADI
+      Parallel On Auto On Overlap Off Duplicates On Offset 2
+      Visibility On
+   Object 27 Anchor (1125584.9216398248,180621.53041019253) 
+   Object 33 Anchor (829607.96209511301,133887.55814495243) 
+   Object 70 Anchor (773903.62359337485,190450.1909437858) 
+   Object 42 Anchor (689004.92299071478,293106.16428495967) 
+  Layer 2
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line Arrow Position Right Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With Plaka_No
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 3
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line Arrow Position Right Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With Plaka_No
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 4
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line Arrow Position Right Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With Plaka_No
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+Set Window FrontWindow() Printer
+ Name "OneNote 16'ya Gönder" Orientation Portrait Copies 1
+ Papersize 9

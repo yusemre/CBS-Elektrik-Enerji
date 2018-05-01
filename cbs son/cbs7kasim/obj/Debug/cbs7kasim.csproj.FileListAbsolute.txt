@@ -1,0 +1,83 @@
+c:\users\asus\documents\visual studio 2015\Projects\cbs7kasim\cbs7kasim\bin\Debug\cbs7kasim.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\cbs7kasim\cbs7kasim\bin\Debug\cbs7kasim.exe
+c:\users\asus\documents\visual studio 2015\Projects\cbs7kasim\cbs7kasim\bin\Debug\cbs7kasim.pdb
+c:\users\asus\documents\visual studio 2015\Projects\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\cbs7kasim\cbs7kasim\obj\Debug\Interop.MapInfo.dll
+c:\users\asus\documents\visual studio 2015\Projects\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.csproj.ResolveComReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.exe
+c:\users\asus\documents\visual studio 2015\Projects\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.pdb
+c:\users\asus\documents\visual studio 2015\Projects\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.Form2.resources
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\bin\Debug\cbs7kasim.exe.config
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\obj\Debug\Interop.MapInfo.dll
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.exe
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.pdb
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\bin\Debug\cbs7kasim.exe
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\bin\Debug\cbs7kasim.pdb
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.Form1.resources
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.Form2.resources
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.Properties.Resources.resources
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.Form3.resources
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\bin\Debug\cbs7kasim.exe.config
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\obj\Debug\Interop.MapInfo.dll
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.exe
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.pdb
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\bin\Debug\cbs7kasim.exe
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\bin\Debug\cbs7kasim.pdb
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.Form1.resources
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.Form2.resources
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.Form3.resources
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.Properties.Resources.resources
+C:\Users\Asus\Desktop\cbs projeler\cbs7kasim\cbs7kasim\obj\Debug\cbs7kasim.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\bin\Debug\cbs7kasim.exe.config
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\obj\Debug\Interop.MapInfo.dll
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.exe
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.pdb
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\bin\Debug\cbs7kasim.exe
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\bin\Debug\cbs7kasim.pdb
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form1.resources
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form2.resources
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form3.resources
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Properties.Resources.resources
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form4.resources
+C:\Users\Asus\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form5.resources
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\bin\Debug\cbs7kasim.exe.config
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\obj\Debug\Interop.MapInfo.dll
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.csproj.ResolveComReference.cache
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.exe
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.pdb
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\bin\Debug\cbs7kasim.exe
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\bin\Debug\cbs7kasim.pdb
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.csprojResolveAssemblyReference.cache
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form1.resources
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form2.resources
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form3.resources
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form4.resources
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form5.resources
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Properties.Resources.resources
+C:\Users\yusem\Desktop\cbs son\cbs7kasim\obj\Debug\cbs7kasim.csproj.GenerateResource.Cache
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\bin\Debug\cbs7kasim.exe.config
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\obj\Debug\Interop.MapInfo.dll
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\obj\Debug\cbs7kasim.csproj.ResolveComReference.cache
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\obj\Debug\cbs7kasim.exe
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\obj\Debug\cbs7kasim.pdb
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\bin\Debug\cbs7kasim.exe
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\bin\Debug\cbs7kasim.pdb
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\obj\Debug\cbs7kasim.csprojResolveAssemblyReference.cache
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form1.resources
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form2.resources
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form3.resources
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form4.resources
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Form5.resources
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\obj\Debug\cbs7kasim.Properties.Resources.resources
+C:\Users\yusem\Desktop\cbs son 4.01.18\cbs son\cbs7kasim\obj\Debug\cbs7kasim.csproj.GenerateResource.Cache
