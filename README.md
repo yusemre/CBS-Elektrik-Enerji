@@ -21,6 +21,7 @@ Yukarıda verilen tablolar ile harita üzerinde il bazlı;
 gibi bilgiler harita üzerinde mapbasic ve mapinfo programları ile desteklenerek görselleştirme ve analizi yapılmıştır.
 
 Projeden Resimler
+![enerjiatlasiarayuzu](https://user-images.githubusercontent.com/11167289/42168553-f8141f52-7e19-11e8-93c5-d34da2db36ea.png)
 
 
 Projeyi derleyip çalıştırmadan önce OLE7.wor dosyasını   " D:// " klasörüne atmanız gerekmektedir.
