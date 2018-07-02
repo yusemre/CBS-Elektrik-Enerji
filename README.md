@@ -22,10 +22,10 @@ gibi bilgiler harita üzerinde mapbasic ve mapinfo programları ile desteklenere
 
 --Projeden Resimler
 
-#Enerji Atlası Arayüzü
+Enerji Atlası Arayüzü
 ![enerjiatlasiarayuzu](https://user-images.githubusercontent.com/11167289/42168553-f8141f52-7e19-11e8-93c5-d34da2db36ea.png)
 
-#Elektrik Üretim                    
+Elektrik Üretim                    
 ![elektrikuretim](https://user-images.githubusercontent.com/11167289/42168965-17f069b0-7e1b-11e8-955d-b2147cdd0bfe.png)
 
 Elektrik Tüketim                                                                                                       
