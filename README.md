@@ -1,4 +1,4 @@
-# cbs-proje
+# CBS-Elektirik-Enerji
 
 Uygulamada Kullanılan Veriler;
 -Elektrik üretim verileri,
@@ -19,5 +19,8 @@ Yukarıda verilen tablolar ile harita üzerinde il bazlı;
 -Kayıp Kaçak Elektrik Maliyeti
 -Dağıtım Bölgeleri
 gibi bilgiler harita üzerinde mapbasic ve mapinfo programları ile desteklenerek görselleştirme ve analizi yapılmıştır.
+
+Projeden Resimler
+![alt text](http://url/to/https://i.hizliresim.com/r1MDp7.png)
 
 Projeyi derleyip çalıştırmadan önce OLE7.wor dosyasını   " D:// " klasörüne atmanız gerekmektedir.
